@@ -10,6 +10,7 @@ public class ClientWSFootball {
         //System.out.print("Yellow cards total = " + yellowCardsTotal());
         //System.out.print("Todos los defensas = " + allDefenders("Lyon").getString());
         
+        
         // Todos los defensas de todas las ciudades
         String result = "";
         
